@@ -1,4 +1,4 @@
-# ComputerVision_50_Research_Papers
+# Computer Vision - List of 50 Most Important Research Papers
 
 This is a list of 50 of the latest research papers in Computer Vision (CV). This will be a "living document" and will be updated regularly.
 
